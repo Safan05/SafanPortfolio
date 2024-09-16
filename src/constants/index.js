@@ -39,6 +39,7 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    link:"https://github.com/Safan05/ShoppingCart-React"
   },
   {
     title: "SIVO Space Agency",
@@ -46,6 +47,7 @@ export const PROJECTS = [
     description:
       "Webpage for SIVO space agency , with features like animations",
     technologies: ["HTML", "CSS", "JS"],
+    link:"https://github.com/Safan05/Template-3-Front"
   },
   {
     title: "Portfolio Website",
@@ -53,6 +55,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, contact information and having users and dashboard for projects.",
     technologies: ["HTML", "CSS", "Node.js", "JavaScript"],
+    link:"https://github.com/Safan05/Portfolio"
   },
   {
     title: "PaintForKid",
@@ -60,6 +63,7 @@ export const PROJECTS = [
     description:
       "Painting application using oop , written in c++",
     technologies: ["C++", "OOP", "Algorithms", "DataStructure"],
+    link:"https://github.com/Safan05/Paint_4_kids"
   },
   {
     title: "AES encryption system",
@@ -67,6 +71,7 @@ export const PROJECTS = [
     description:
       "Using verilog and fgpa to desgin a sequential logic design system for AES encryption",
     technologies: ["Verilog", "FPGA", "Logic design"],
+    link:"https://github.com/Safan05/AES"
   },
 ];
 
