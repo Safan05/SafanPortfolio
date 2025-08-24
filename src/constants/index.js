@@ -4,9 +4,9 @@ import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project-5.png";
 
-export const HERO_CONTENT = `I am a passionate computer engineer with expertise in crafting innovative software and hardware solutions. With strong problem-solving skills, I have experience in front-end technologies like React, back-end technologies like Node.js and MongoDB, and hardware design, including FPGA, Verilog, and logic design. My goal is to leverage my technical expertise and problem-solving abilities to create efficient, scalable solutions that deliver exceptional user experiences and drive innovation.`;
+export const HERO_CONTENT = `I’m a computer engineer who enjoys building modern software and hardware projects. I work with technologies like React, Node.js, and MongoDB on the software side, and have experience in FPGA, Verilog, and logic design on the hardware side. I’m always curious to learn new things and find smart solutions to technical challenges.`;
 
-export const ABOUT_TEXT = `I am a versatile computer engineer with a passion for software and hardware development. In addition to my experience in web development, I have a solid background in logic design, FPGA, and Verilog. My expertise in algorithms and problem-solving enables me to tackle complex technical challenges and deliver high-quality solutions. Throughout my journey, I have worked on a variety of projects, constantly seeking to expand my skills and adapt to new challenges. I thrive in collaborative environments, where I can solve problems efficiently and contribute to innovative projects. Outside of work, I enjoy exploring new technologies, staying active, and contributing to open-source communities.`;
+export const ABOUT_TEXT = `My journey as a computer engineer has always been about exploring both software and hardware. I’ve worked on different projects ranging from web development with React and Node.js to hardware design with FPGA and Verilog. I enjoy problem-solving and learning new technologies along the way. Outside of coding, I like staying active, discovering new ideas, and sometimes contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
@@ -42,12 +42,12 @@ export const PROJECTS = [
     link:"https://github.com/Safan05/ShoppingCart-React"
   },
   {
-    title: "SIVO Space Agency",
+    title: "Search Engine",
     image: project2,
     description:
-      "Webpage for SIVO space agency , with features like animations",
-    technologies: ["HTML", "CSS", "JS"],
-    link:"https://github.com/Safan05/Template-3-Front"
+      "Search engine application that allows users to search for information across various sources.",
+    technologies: ["Java", "React", "Springboot"],
+    link:"https://github.com/Safan05/SearchEngine"
   },
   {
     title: "Portfolio Website",
